@@ -1,0 +1,9 @@
+[package]
+name = "noe_chec" # the name of the package
+version = "0.1.0"    # the current version, obeying semver
+authors = ["noe.favier@outlook.com"]
+
+edition = "2021"
+[dependencies]
+colored = "2.0.0"
+clearscreen = "1.0.9"
